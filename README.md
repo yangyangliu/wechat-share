@@ -4,8 +4,8 @@
 
 ## 总则
 
-- 群里只有分享，没有讨论
-- 讨论移步 [issue](https://github.com/barretlee/wechat-share/issues)，创建后将 issue 链接发到群里
+- **群里只有分享，没有讨论**
+- 讨论请移步 [issue](https://github.com/barretlee/wechat-share/issues)，创建后将 issue 链接发到群里
 
 讨论很有可能变成水军群，请见谅。
 
